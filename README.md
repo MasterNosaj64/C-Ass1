@@ -1,4 +1,4 @@
-# C-Ass1
+# CST8234-C-Language-Assignment-1
 C Language - Assignment 1 - CST8234 - Algonquin College - Computer Engineering - Computing Science
 
 Purpose:
