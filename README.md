@@ -1,6 +1,5 @@
 # C-Ass1
-C Language - Assignment 1
-CST8234 - Algonquin College - Computer Engineering - Computing Science
+C Language - Assignment 1 - CST8234 - Algonquin College - Computer Engineering - Computing Science
 
 Purpose:
 Read a text file and give the user options for the following
